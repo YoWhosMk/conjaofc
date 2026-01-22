@@ -1,50 +1,39 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://tiktok.com/conjaofc3
+https://instagram.com/conjaofc
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
-
+We are Conja a small Basement studio and we love to draw, watch anime and write stories.
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+We offer commission but at the moment commissions are closed due to some personal reasons but soon the commission slot will be open.
 
-about__info-name
-Years <br> experience
-Completed <br> project
-Companies <br> worked
+about__info- Conja
+Years <br> 10 years of art experience in traditional art and 1 year of experience in digital art.
+Completed <br> we have a few of our digital art projects
+Company <br> Conja
 
 
 * SERVICES
-services__modal-service
-I develop the user interface.
-Web page development.
-I create ux element interactions.
-I position your company brand.
-
+Digital art.
+Traditional art.
+Story publishing.
+Manga publishing.
 
 * PORTFOLIO
 portfolio__description
-Website adaptable to all devices, with ui components and animated interactions.
+we're a crew of a small basement studio called Conja, and we like to draw both digital and traditional art, we also write stories and soon we'll adventure on the journey of manga publishing. Any support from you is a blessed gift for us.
 
 
-* PROJECT
-project__description
-Contact me now and get a 30% discount on your new project.
-
-
-* TESTIMONIAL
-testimonial__description
-I get a good impression, I carry out my project with all the possible quality and attention and support 24 hours a day.
+* SUPPORT
+support us and and follow us on all socials and get a free art pies of your profile on Instagram.
 
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://www.tiktok.com/conjaofc3
+https://www.instagram.com/conjaofc
 
 
